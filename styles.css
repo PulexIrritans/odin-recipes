@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    background-color: ivory;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+h1 {
+    color: rgb(80, 67, 67);
+}
+h2 {
+    color:lightcoral
+}
+a {
+    font-weight: bold;
+}
+.crazy {
+    background-color:lightgreen;
+}
